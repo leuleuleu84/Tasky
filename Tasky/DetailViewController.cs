@@ -24,13 +24,16 @@ namespace Tasky
 
 		void ConfigureView ()
 		{
+			
+
 			// Update the user interface for the detail item
 			if (IsViewLoaded && DetailItem != null){
 				
 				tfName.Text = DetailItem.Name;
 				tfNotes.Text = DetailItem.Notes;
 				swDone.On = DetailItem.Done;
-			
+				btnSave.Enabled = true;
+				btnDel.Enabled = true;
 			}
 		}
 
@@ -38,10 +41,9 @@ namespace Tasky
 		{
 			base.ViewDidLoad ();
 			this.NavigationItem.LeftItemsSupplementBackButton = true;
-				
+			tfName.BecomeFirstResponder ();
 			// Perform any additional setup after loading the view, typically from a nib.
 			ConfigureView ();
-			tfName.BecomeFirstResponder ();
 //			
 //			tfName.ShouldReturn += (textField) => {
 //				tfNotes.BecomeFirstResponder;
@@ -55,10 +57,12 @@ namespace Tasky
 				DetailItem.Notes = tfNotes.Text;
 				DetailItem.Done = swDone.On;
 
-				if (tfName != null){
+				if (tfName.Text != ""){
+					btnDel.Enabled = false;
 				TaskDb.Insert(DetailItem);
 				NavigationController.PopViewController(true);
 				}
+
 			};
 			btnDel.TouchDown += (sender, e) => {
 				tfName.Text = "";
