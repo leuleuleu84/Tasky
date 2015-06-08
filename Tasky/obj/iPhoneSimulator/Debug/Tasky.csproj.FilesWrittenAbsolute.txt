@@ -1,0 +1,14 @@
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/JEX-9P-axG-view-svH-Pt-448.nib
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-H1p-Uh-vWS.nib
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-vC3-pB-5Vb.nib
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/
+/Users/Thang/Desktop/Tasky/Tasky/bin/iPhoneSimulator/Debug/Tasky.exe.mdb
+/Users/Thang/Desktop/Tasky/Tasky/bin/iPhoneSimulator/Debug/Tasky.exe
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/Tasky.exe
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/Tasky.exe.mdb

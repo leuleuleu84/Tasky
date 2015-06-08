@@ -1,0 +1,5 @@
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhone/Debug/mtouch-cache/32/Link/System.Core.dll
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhone/Debug/mtouch-cache/32/Link/Tasky.exe

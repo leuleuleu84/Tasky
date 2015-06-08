@@ -1,0 +1,20 @@
+ipaD
+1
+1.0 1.0
++Info.plist
++Main.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib
++Main.storyboardc/Info.plist
++Main.storyboardc/JEX-9P-axG-view-svH-Pt-448.nib
++Main.storyboardc/UIViewController-H1p-Uh-vWS.nib
++Main.storyboardc/UIViewController-vC3-pB-5Vb.nib
++MonoTouchDebugConfiguration.txt
++ResourceRules.plist
++Tasky
++_CodeSignature/CodeResources
++archived-expanded-entitlements.xcent
++embedded.mobileprovision
+xEOF
+#CreateSparseIPA UUID: AD4C74ED-AC63-3F2F-ACF2-7B2E7F6AD757
+#Bundle id: com.companyname.tasky
+#Old bundle version: 1.0 1.0
+#New bundle version: 1.0 1.0
