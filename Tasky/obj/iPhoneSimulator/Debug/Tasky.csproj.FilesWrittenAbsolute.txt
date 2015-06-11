@@ -12,3 +12,4 @@
 /Users/Thang/Desktop/Tasky/Tasky/bin/iPhoneSimulator/Debug/Tasky.exe
 /Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/Tasky.exe
 /Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/Tasky.exe.mdb
+/Users/Thang/Desktop/Tasky/Tasky/obj/iPhoneSimulator/Debug/ibtool/.DS_Store

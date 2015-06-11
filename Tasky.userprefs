@@ -1,15 +1,8 @@
 ﻿<Properties StartupItem="Tasky/Tasky.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPhone" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.3" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Tasky/DetailViewController.cs">
     <Files>
-      <File FileName="Tasky/AppDelegate.cs" Line="30" Column="72" />
-      <File FileName="Tasky/DataSource.cs" Line="71" Column="61" />
-      <File FileName="Tasky/TaskDb.cs" Line="21" Column="26" />
-      <File FileName="Tasky/MasterViewController.cs" Line="73" Column="30" />
-      <File FileName="Tasky/Task.cs" Line="15" Column="3" />
-      <File FileName="Tasky/ResoponseToDatabase.cs" Line="45" Column="16" />
-      <File FileName="Tasky/SqliteNet.cs" Line="1129" Column="3" />
-      <File FileName="Tasky/DetailViewController.cs" Line="32" Column="33" />
+      <File FileName="Tasky/DetailViewController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -18,7 +18,10 @@ namespace Tasky
 			this.controller = controller;
 		}
 
-
+		public override nfloat EstimatedHeight (UITableView tableView, NSIndexPath indexPath)
+		{
+			return UIKit.UITableView.AutomaticDimension;
+		}
 
 		// Customize the number of sections in the table view.
 		public override nint NumberOfSections (UITableView tableView)
