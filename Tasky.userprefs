@@ -1,10 +1,6 @@
 ﻿<Properties StartupItem="Tasky/Tasky.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.3" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tasky/DetailViewController.cs">
-    <Files>
-      <File FileName="Tasky/DetailViewController.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
